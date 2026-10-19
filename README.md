@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Jonnnz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Jonnnz/Jonnnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @Jonnnz[span_1](start_span)[span_1](end_span) (Eze Obinna)
+- 👀 I'm interested in building autonomous AI agent systems, backend microservices, and distributed pipelines.
+- 🌱 I'm currently learning advanced low-latency architectures, eBPF, and real-time streaming protocols.
+- 💞️ I'm looking to collaborate on high-performance AI gateways, system orchestration, and developer tooling.
+- 📫 How to reach me on X: [@eze_obi1](https://x.com/eze_obi1)
